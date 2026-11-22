@@ -1,0 +1,6 @@
+{
+  "name": "UPSC ELITE",
+  "description": "AI-Powered UPSC Civil Services Examination Platform supporting Prelims, Mains, and Personality Test across English, Hindi, and Gujarati.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
